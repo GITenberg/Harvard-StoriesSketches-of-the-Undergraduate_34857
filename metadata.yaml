@@ -1,0 +1,34 @@
+_repo: Harvard-StoriesSketches-of-the-Undergraduate_34857
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Post, Waldron Kintzing
+    birthdate: 1868
+    deathdate: 1955
+    gutenberg_agent_id: '37276'
+    url: http://www.gutenberg.org/2009/agents/37276
+description: ''
+gutenberg_issued: '2011-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34857'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'College students -- Fiction'
+- !lcsh 'Harvard University -- Fiction'
+- !lcsh 'College stories, American'
+- !lcc 'PS'
+tableOfContents: Jack Rattleton goes to Springfield and back -- The waking nightmare
+  of Hollis Holworthy -- The plot against Bullam -- The dog Blathers -- A Howard and
+  Harvard evening -- The Harvard legion at Philippi -- In the early sixties -- Little
+  helping hands -- A rambling discussion and an adventure, perhaps unconnected --
+  Serious situations in Burleigh's room -- A Harvard-Yale episode -- The days of reckoning
+  -- Class day -- How River's luck turned.
+title: 'Harvard Stories: Sketches of the Undergraduate'
+url: http://www.gutenberg.org/ebooks/34857
